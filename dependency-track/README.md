@@ -23,4 +23,7 @@ http://dependencytrack.example.org
 # default credentials
 # user: admin
 # pwd: admin
+
+# uninstall
+helm uninstall -n dependency-track dependency-track
 ```
